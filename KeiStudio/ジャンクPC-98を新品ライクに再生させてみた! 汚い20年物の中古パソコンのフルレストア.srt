@@ -1,0 +1,724 @@
+﻿1
+00:00:04,000 --> 00:00:08,005
+曾经有一种计算机在日本流行
+
+2
+00:00:09,000 --> 00:00:13,005
+PC-9800 系列
+
+3
+00:00:14,000 --> 00:00:19,000
+它的昵称是 98，在日本人之间非常流行
+
+4
+00:00:20,000 --> 00:00:28,000
+曾经几乎 90 % 的日本计算机是 PC-98
+
+5
+00:00:30,000 --> 00:00:49,000
+到了 90 年代末期，PC-98 的时代结束了
+NEC 也就改为生产 PCAT 兼容机
+
+6
+00:00:50,000 --> 00:00:57,000
+你所看到的笔记本就是 PC-98 系列中的一款
+（PC-9821Nx，当时售价 560000 円）
+
+7
+00:00:58,000 --> 00:01:04,000
+这台电脑距离发售已经有二十多年了，成色依然很棒
+
+8
+00:01:06,000 --> 00:01:13,000
+它被一个人翻新了
+
+9
+00:01:14,000 --> 00:01:18,000
+他就是肝杉孝雄
+
+10
+00:01:19,000 --> 00:01:28,000
+在 PC-98 全盛时期，个人计算机是很昂贵的产品
+PC-98 昂贵的价格使得很多厂商眼红
+
+11
+00:01:29,000 --> 00:01:35,000
+在那时，肝杉孝雄买不起 PC-98
+
+12
+00:01:36,000 --> 00:01:45,000
+然而，肝杉孝雄的一位土豪朋友就有一台 PC-98
+机身全白色，有棱有角
+
+13
+00:01:47,000 --> 00:01:53,000
+肝杉孝雄十分羡慕，也想要一台 PC-98
+
+14
+00:01:54,000 --> 00:02:02,000
+“我是个学生，没有钱，所以我想让我的父母帮我买。”
+
+15
+00:02:02,000 --> 00:02:07,000
+父亲：“PC-98 多少钱？”
+肝杉孝雄: "我想便宜的话大概二三十万円。"
+
+16
+00:02:07,000 --> 00:02:12,000
+父亲：“别瞎说什么蠢话了。”
+于是父亲没有给他买 PC-98
+
+17
+00:02:14,000 --> 00:02:25,000
+看来他的父亲对此感到很遗憾，于是他从办公室带回来一台电脑
+
+18
+00:02:30,000 --> 00:02:42,000
+父亲：“这就是你要的 PC-98。”
+肝杉孝雄很高兴，但是等他一开箱他惊呆了
+
+19
+00:02:48,000 --> 00:03:02,000
+这个 PC-98 的成色很糟糕，有很多烟灰尘土，划痕也很多
+
+20
+00:03:02,000 --> 00:03:05,000
+黯淡发黄的液晶屏
+
+21
+00:03:06,000 --> 00:03:09,000
+烟灰撒在机器上的痕迹
+
+22
+00:03:11,000 --> 00:03:19,000
+用倒是能用，但和我期待的完全不一样
+
+23
+00:03:20,000 --> 00:03:26,000
+肝杉孝雄很沮丧，但是他并不甘心
+
+24
+00:03:26,000 --> 00:03:30,960
+为了能将电脑清理干净，我用抹布擦拭
+
+25
+00:03:30,960 --> 00:03:39,025
+然而，就算抹布变脏了，电脑也干净不起来
+
+26
+00:04:02,431 --> 00:04:02,000
+就算把二手电脑用抹布擦干净了，那顶多也是表面没有灰尘的二手物品
+
+27
+00:04:02,432 --> 00:04:13,432
+即便过了十年二十年，肝杉孝雄的自卑情绪依然没有消失
+
+28
+00:04:11,412 --> 00:04:14,994
+此后，他成为了一个社团的成员
+
+29
+00:04:13,000 --> 00:04:24,000
+他用自己的钱买了一台新电脑，然而并不满意
+
+30
+00:04:26,000 --> 00:04:34,000
+肝杉孝雄经历了多年的经验积累，已经拥有了足够的动手能力
+
+31
+00:04:35,000 --> 00:05:02,000
+我已经学会了我应该要做的，我觉得我现在应该可以把 PC-98 翻修得跟新的一样
+
+32
+00:05:04,000 --> 00:05:18,000
+他决定通过自己的能力动手翻新 PC-98 来消除自己的自卑情绪
+
+33
+00:05:33,000 --> 00:05:39,000
+自卑情绪就是翻新的动力
+
+34
+00:05:39,000 --> 00:05:43,000
+黯淡的液晶屏
+
+35
+00:05:43,000 --> 00:05:49,000
+发黄肮脏的键盘
+
+36
+00:05:49,000 --> 00:05:54,000
+电解电容也漏液了
+
+37
+00:05:55,000 --> 00:05:57,000
+有人打趣说：这根本就不是二手电脑
+
+38
+00:05:57,000 --> 00:06:02,000
+这是废品ww
+
+39
+00:06:02,000 --> 00:06:08,000
+会毁掉软盘的软驱
+
+40
+00:06:08,000 --> 00:06:15,000
+光驱音乐跑偏，托盘推不回去
+
+41
+00:06:15,000 --> 00:06:20,000
+处理的时候排线裂开了
+
+42
+00:06:20,000 --> 00:06:24,000
+处理的时候外壳酥了
+
+43
+00:06:25,000 --> 00:06:27,000
+复活吧！98！！
+
+44
+00:06:34,000 --> 00:06:44,000
+肝杉孝雄去买了用于修复的配件
+它不但成色很糟糕，而且还缺少了一些本应连接的配件
+
+45
+00:06:44,000 --> 00:06:55,000
+这个二手 PC-98 没有光驱
+
+46
+00:06:55,000 --> 00:07:08,000
+他在日拍买到的光驱成色并不好
+他不能正常听音乐，也不能推仓
+
+47
+00:07:08,000 --> 00:07:21,000
+在市面上能买到的 PC-98 配件和他年纪差不多大
+“我感觉我简直就是从负数开始……”
+
+48
+00:07:21,000 --> 00:07:27,000
+Takao adjusted the laser output of the pickup lens.
+
+49
+00:07:28,000 --> 00:07:32,000
+The opening / closing condition of the tray was also adjusted.
+
+50
+00:07:32,000 --> 00:07:41,000
+That was fixed. This project has just begun.
+Takao did not go on stumble at the start.
+
+51
+00:07:43,000 --> 00:07:53,000
+Next, he disassembled his PC-98.
+But he was at a loss what to do and what to do.
+
+52
+00:07:54,000 --> 00:08:02,000
+The dust on the motherboard was entwined with tobacco stains.
+He politely cleaned it.
+
+53
+00:08:03,000 --> 00:08:10,000
+There were amazingly many electrolytic capacitors on the 2-piece motherboard.
+
+54
+00:08:11,000 --> 00:08:26,000
+Among the parts constituting the PC, the life of the electrolytic capacitor is particularly short.
+The encapsulated liquid may leak out and, in the worst case, corrode the substrate.
+
+55
+00:08:26,000 --> 00:08:30,000
+This is cancer. He thought so.
+
+56
+00:08:31,000 --> 00:08:39,000
+Some electrolytic capacitors carefully removed were liquid leaked.
+
+57
+00:08:40,000 --> 00:08:45,000
+Fortunately, there was no damage to the motherboard.
+
+58
+00:08:45,000 --> 00:08:51,000
+Then he replaced all electrolytic capacitors.
+
+59
+00:08:52,000 --> 00:08:55,000
+"Hmm...Always so."
+
+60
+00:08:55,000 --> 00:09:05,000
+"I am looking forward to making something and fixing it.
+To be exciting."
+
+61
+00:09:05,000 --> 00:09:13,000
+"I actually decompose it.
+Then, I will face various problems."
+
+62
+00:09:13,000 --> 00:09:18,000
+"Huh. Is this so detailed?"
+
+63
+00:09:18,000 --> 00:09:30,000
+"How much time will it take to fix this?
+How much money will it cost?"
+"Can I repair this to myself?"
+
+64
+00:09:30,000 --> 00:09:37,000
+"I noticed that the enemy was big, and I am perplexed."
+"Am I doing something terrible thing?"
+
+65
+00:09:37,000 --> 00:09:41,000
+"So. Always so."
+
+66
+00:09:41,000 --> 00:09:50,000
+Sources of power when people try to do something.
+That is the feeling that people want to be recognized. Takao said so.
+
+67
+00:09:51,000 --> 00:10:01,000
+This is a cable for connecting the display and the main unit.
+
+68
+00:10:02,000 --> 00:10:12,000
+The acetate tape wound on the cable was deteriorated.
+The glue was spilling from the gap of the hinge as it became granular.
+
+69
+00:10:12,000 --> 00:10:18,000
+He swept clean and rolled a new acetate tape.
+
+70
+00:10:19,000 --> 00:10:28,000
+Coin type rechargeable batteries for saving PC settings and clocks were exchanged for new one.
+
+71
+00:10:29,000 --> 00:10:38,000
+Since it came so far, it was provisionally assembled.
+Well, can this start? "Switch finger pressing" trembled.
+
+72
+00:10:41,000 --> 00:10:44,000
+As if nothing had happened...
+PC-98 is done.
+
+73
+00:10:45,000 --> 00:10:56,000
+"I was very nervous because I had been broken many times before I tried to fix it. hahaha..."
+
+74
+00:10:56,000 --> 00:11:03,000
+Takao smiled happily. There was no front teeth there.
+
+75
+00:11:04,000 --> 00:11:09,000
+Next, He started a tired body case.
+
+76
+00:11:10,000 --> 00:11:21,000
+He polished the entire PC. It is a work of peeling dirty skin.
+
+77
+00:11:23,000 --> 00:11:32,000
+Suddenly there was an accident. A part of the case was missing.
+Plastic that has been 20 years old will deteriorate and weaken.
+
+78
+00:11:32,000 --> 00:11:39,000
+Of course, even when disassembling, the fastener may be chipped.
+
+79
+00:11:40,000 --> 00:11:45,000
+"This is a matter of course, at that time, just repair that part."
+Takao was very calm.
+
+80
+00:11:51,000 --> 00:11:54,000
+The surface is painted finish by airbrush.
+
+81
+00:11:54,000 --> 00:11:59,000
+The paint was toned by color of the part not damaged.
+
+82
+00:12:00,000 --> 00:12:10,000
+It is mat. But a slight gloss.
+He wanted to reproduce elegant skin just like a brand new.
+
+83
+00:12:12,000 --> 00:12:18,000
+The greatest difficulty
+"98NOTE" logo
+
+84
+00:12:19,000 --> 00:12:28,000
+It was formed by many fine thread-like prints.
+He anticipated a difficult flight.
+
+85
+00:12:29,000 --> 00:12:39,000
+However, if he leave it alone, PC-98 will never be like a brand new one.
+
+86
+00:12:41,000 --> 00:12:49,000
+"This is a critical moment."
+Takao was inspired.
+
+87
+00:12:50,000 --> 00:12:52,000
+He got tired of the fine work.
+
+88
+00:12:55,000 --> 00:12:59,000
+Takao could not do it well, He repeated the failure many times.
+
+89
+00:12:59,000 --> 00:13:06,000
+Every time it failed, He had to peel off all the paint and paint it from the beginning.
+
+90
+00:13:06,000 --> 00:13:12,000
+The number of empty paint bottles increased.
+
+91
+00:13:12,000 --> 00:13:23,000
+He bought the same paint, looking for a neighborhood shop.
+
+92
+00:13:23,000 --> 00:13:46,000
+"Fail, but sometimes I knew when I failed.
+I thought this was a matter of accuracy. It will be better by overcoming it."
+
+93
+00:13:46,000 --> 00:14:05,000
+"So I... I had to become a PC myself!
+In other words, by myself becoming a precision machine!!"
+
+94
+00:14:05,000 --> 00:14:06,000
+"it is ---
+
+95
+00:14:06,000 --> 00:14:13,000
+The "98NOTE" logo was reproduced in this way.
+
+96
+00:14:14,000 --> 00:14:27,000
+It is not over yet.
+Next is the rubber feet that was once gray. It was dirty and black.
+
+97
+00:14:28,000 --> 00:14:36,000
+Takao sticks to the same color and shape.
+Although he was looking for Akihabara and a DIY store, he could not find it.
+
+98
+00:14:38,000 --> 00:14:48,000
+In the meantime, he found a company that produces custom rubber feet.
+He ordered the company as if asking for help.
+
+99
+00:14:48,000 --> 00:14:57,000
+The sensation of a new item increased at once.
+He felt the effect of such accessories strongly.
+
+100
+00:14:58,000 --> 00:15:09,000
+The cushion rubber between the display and the main body was similarly dirty.
+Besides, it was a state where things like oil seeped out.
+
+101
+00:15:10,000 --> 00:15:19,000
+As the cushion rubber had a simple shape, he cut the gray rubber and made it for himself.
+
+102
+00:15:19,000 --> 00:15:24,000
+The keyboard was dirty by the tabacco stain.
+
+103
+00:15:24,000 --> 00:15:35,000
+He washed it and soaked it in the kitchen bleach.
+
+104
+00:15:35,000 --> 00:15:44,000
+It disappears in the tobacco stain and the color recovers.
+However, there was still a used keybord.
+
+105
+00:15:46,000 --> 00:16:03,000
+Key top that was struck repeatedly with your finger. The surface should have been matte finish.
+Unfortunately, however, a dull luster appeared.
+The word "beautiful used keybord" was perfect.
+
+106
+00:16:04,000 --> 00:16:11,000
+He picked out key tops with shine and got a little matte paint.
+
+107
+00:16:12,000 --> 00:16:17,000
+Key tops were reborn like new.
+
+108
+00:16:18,000 --> 00:16:26,000
+Alright. He assembled it and turned on the power. PC-98... revive!
+
+109
+00:16:27,000 --> 00:16:37,000
+Cruel reality. The exterior, which was reborn like a brand new, made the darkness of the display more prominent.
+
+110
+00:16:38,000 --> 00:16:46,000
+"Even if you fix it, this is a used item"
+He felt that the display insisted that way.
+
+111
+00:16:48,000 --> 00:17:01,000
+He did not give up.
+It was fortunate that there were no scratches, cracks, dot missing on the display.
+He said that he had to give up play if he had such symptoms.
+
+112
+00:17:01,000 --> 00:17:13,000
+There really is a PC that can not regain its original form.
+I feel sorry but that is reality. "
+
+113
+00:17:13,000 --> 00:17:19,000
+As he muttered so, he seemed a little sad.
+
+114
+00:17:23,000 --> 00:17:29,000
+Degradation of display brightness and color.
+It is due to exhaustion of the backlight.
+
+115
+00:17:29,000 --> 00:17:40,000
+Currently LED backlights are mainstream, but cold cathode tubes were often used at that time.
+
+116
+00:17:41,000 --> 00:17:47,000
+A narrow rod-like glass tube emits light.
+It is almost like a fluorescent light source.
+
+117
+00:17:48,000 --> 00:17:57,000
+It is delicate. Moreover, it takes a voltage of several hundred volts.
+Handling required attention.
+
+118
+00:17:57,000 --> 00:18:10,000
+"I was very scared, what would I do if I break it?
+What would I do if I get an electric shock? I thought so."
+
+119
+00:18:10,000 --> 00:18:22,000
+As I said, Takao laughed proudly this time.
+As he became friends, he began to show various expressions.
+
+120
+00:18:24,000 --> 00:18:30,000
+I exchanged it and caused it to emit light.
+The brightness was completely different.
+
+121
+00:18:31,000 --> 00:18:39,000
+It was bright from just after startup.
+Yellowish is gone.
+
+122
+00:18:40,000 --> 00:18:49,000
+Finally He decided to repair the mouse and power adapter.
+This is the last spurt.
+
+123
+00:18:50,000 --> 00:19:00,000
+Glossy parts. Without glossy parts.
+He sticked to how to finish the surface.
+
+124
+00:19:01,000 --> 00:19:15,000
+He polished persistently fast.
+Usually, this type of gloss can not be produced in the molding process of the factory.
+Polish too. He thought so.
+
+125
+00:19:17,000 --> 00:19:23,000
+In the case of the mattress, it painted by masking the logo part of the manufacturer.
+
+126
+00:19:23,000 --> 00:19:37,000
+He wiped a black, troubling, serpentine cable over the day.
+He used detergent and absolute ethanol, but when it still can not get dirty, He used thinner.
+
+127
+00:19:39,000 --> 00:19:45,000
+The hardened cable regained its suppleness by being clean.
+
+128
+00:19:47,000 --> 00:19:53,000
+When everything was over, he noticed that his palm was cracked.
+
+129
+00:19:55,000 --> 00:20:06,000
+PC-98 finally reproduced. He thought so.
+However, trouble occurred when accessing the floppy disk to install the OS.
+
+130
+00:20:07,000 --> 00:20:19,000
+When writing to a floppy disk, a phenomenon occurred that the floppy disk could not be read.
+
+131
+00:20:21,000 --> 00:20:27,000
+It was when he was disassembling to maintain a floppy disk, relying on the web.
+
+132
+00:20:29,000 --> 00:20:38,000
+He was careless. He broke the flexible cable.
+Bad events were overlapping.
+
+133
+00:20:38,000 --> 00:21:03,000
+"The accessory of PC-98 is an exhausted resource,
+I felt strongly the guilt feeling of breaking such accessories
+I thought that I did sorry."
+
+134
+00:21:05,000 --> 00:21:19,000
+Fortunately, we were able to obtain a floppy disk drive at a shop dealing with PC-98 accessories.
+Even now, there is a shop that maintains and sells PC-98 accessories and main body like this.
+
+135
+00:21:20,000 --> 00:21:31,000
+PC - 98 's accessories are expensive because it is valuable now, not cheap.
+But he thought. "I have a group.
+
+136
+00:21:32,000 --> 00:21:37,000
+In this way, his PC-98 was revived.
+
+137
+00:21:39,000 --> 00:21:49,000
+His inferiority complex disappeared with PC tobacco stain and dirt.
+
+138
+00:21:51,000 --> 00:21:57,000
+At that time, he had no feeling of joy by what he achieved.
+
+139
+00:21:57,000 --> 00:22:09,000
+He thought he resembled a feeling of security when his work was done everyday.
+
+140
+00:22:11,000 --> 00:22:17,000
+The light of the morning sun from the window of a few times was bright.
+
+141
+00:22:22,000 --> 00:22:33,000
+Finally, we tried a few questions to Takao.
+Then he invited me to a late night drive.
+
+142
+00:22:33,000 --> 00:22:44,000
+He says his heart will be healed by driving, he will feel honest.
+He says the heart will never be disturbed.
+
+143
+00:22:45,000 --> 00:22:54,000
+"Driving will relieve your mind.
+I will have the heart of Buddha and answer your questions. "
+
+144
+00:22:55,000 --> 00:22:59,000
+We started asking him a question.
+
+145
+00:23:00,000 --> 00:23:04,000
+Q:For Takao, what kind of thing is "new product"?
+
+146
+00:23:04,000 --> 00:23:14,000
+That is the easiest question.
+I will win if it is said to the other player that "That is a new PC."
+
+147
+00:23:14,000 --> 00:23:25,000
+However, if I told my opponent, "It's a PC that looks good," I am defeated.
+Because it is a praise for used PC.
+
+148
+00:23:27,000 --> 00:23:35,000
+Q:It was a difficult task. But can not we make it easier as we can do?
+
+149
+00:23:35,000 --> 00:23:55,000
+I think that it would be nice if there was a service that could exchange exterior parts, but at present it is not.
+So, there is no other way than we can move our hands.
+
+150
+00:23:55,000 --> 00:24:06,000
+The state of a new article is transient.
+And it is very difficult to regain it.
+
+151
+00:24:08,000 --> 00:24:14,000
+Q:Is your PC-98 OS Windows?
+
+152
+00:24:14,000 --> 00:24:25,000
+I will not install Windows on this PC.
+Installing Windows on the PC-98 in the past has become popular.
+
+153
+00:24:25,000 --> 00:24:36,000
+However, it was very poor in cost performance.
+I think everyone is scrupulous.
+
+154
+00:24:38,000 --> 00:24:42,000
+Q:So what is the OS?
+
+155
+00:24:42,000 --> 00:24:45,000
+It is NEC version of DOS.
+
+156
+00:24:45,000 --> 00:24:48,000
+Q:What can you do with that DOS?
+
+157
+00:24:49,000 --> 00:25:56,000
+I can not do anything in particular. What I can do with this PC-98 can be done with the current general PC.
+
+158
+00:24:56,000 --> 00:25:07,000
+In the first place do not you understand that you did not restore to make something with this PC-98?
+
+159
+00:25:08,000 --> 00:25:14,000
+Q:Huh? So, why did you restore this PC-98?
+
+160
+00:25:14,000 --> 00:25:36,000
+This is my habit! habit, religion, drag. It is such kind of thing.
+It is not a problem you open your mouth!
+
+161
+00:25:37,000 --> 00:25:43,000
+Q:Regardless of personal computer, is not your front teeth brand new?
+
+162
+00:25:48,000 --> 00:26:05,000
+He seems to be excited, so I will finish the interview.
+Finally I will part with you while watching the opening of PC-98 game.
+
+163
+00:26:05,000 --> 00:26:10,000
+Thank you for watching it for a long time!
+
