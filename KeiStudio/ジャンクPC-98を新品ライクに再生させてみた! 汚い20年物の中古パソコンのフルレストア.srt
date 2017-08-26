@@ -1,4 +1,4 @@
-﻿1
+1
 00:00:04,000 --> 00:00:08,005
 曾经有一种计算机在日本流行
 
@@ -102,23 +102,23 @@ PC-98 昂贵的价格使得很多厂商眼红
 为了能将电脑清理干净，我用抹布擦拭
 
 25
-00:03:30,960 --> 00:03:39,025
+00:03:30,960 --> 00:03:38,789
 然而，就算抹布变脏了，电脑也干净不起来
 
 26
-00:04:02,431 --> 00:04:02,000
+00:03:38,789 --> 00:04:03,253
 就算把二手电脑用抹布擦干净了，那顶多也是表面没有灰尘的二手物品
 
 27
-00:04:02,432 --> 00:04:13,432
+00:04:03,253 --> 00:04:11,908
 即便过了十年二十年，肝杉孝雄的自卑情绪依然没有消失
 
 28
-00:04:11,412 --> 00:04:14,994
+00:04:11,908 --> 00:04:15,655
 此后，他成为了一个社团的成员
 
 29
-00:04:13,000 --> 00:04:24,000
+00:04:15,655 --> 00:04:24,000
 他用自己的钱买了一台新电脑，然而并不满意
 
 30
@@ -198,106 +198,97 @@ PC-98 昂贵的价格使得很多厂商眼红
 
 48
 00:07:21,000 --> 00:07:27,000
-Takao adjusted the laser output of the pickup lens.
+他调整了光驱的激光头
 
 49
 00:07:28,000 --> 00:07:32,000
-The opening / closing condition of the tray was also adjusted.
+他还让开仓退仓过程变得顺滑了
 
 50
 00:07:32,000 --> 00:07:41,000
-That was fixed. This project has just begun.
-Takao did not go on stumble at the start.
+这就修好了，坑就开始了，他并没有弃坑
 
 51
 00:07:43,000 --> 00:07:53,000
-Next, he disassembled his PC-98.
-But he was at a loss what to do and what to do.
+他开始拆开他的 PC-98，但是他对做什么一脸茫然
 
 52
 00:07:54,000 --> 00:08:02,000
-The dust on the motherboard was entwined with tobacco stains.
-He politely cleaned it.
+主板覆盖满了烟灰，他仔细做了清理
 
 53
 00:08:03,000 --> 00:08:10,000
-There were amazingly many electrolytic capacitors on the 2-piece motherboard.
+这两块主板上有相当多的电解电容
 
 54
 00:08:11,000 --> 00:08:26,000
-Among the parts constituting the PC, the life of the electrolytic capacitor is particularly short.
-The encapsulated liquid may leak out and, in the worst case, corrode the substrate.
+电脑上的电容寿命很短，很快就会漏液，搞不好还会腐蚀主板
 
 55
 00:08:26,000 --> 00:08:30,000
-This is cancer. He thought so.
+他也觉得这是巨大隐患
 
 56
 00:08:31,000 --> 00:08:39,000
-Some electrolytic capacitors carefully removed were liquid leaked.
+一些漏液的电容被小心地拆开了
 
 57
 00:08:40,000 --> 00:08:45,000
-Fortunately, there was no damage to the motherboard.
+幸好主板没有被腐蚀
 
 58
 00:08:45,000 --> 00:08:51,000
-Then he replaced all electrolytic capacitors.
+然后他替换掉了所有的电解电容
 
 59
 00:08:52,000 --> 00:08:55,000
-"Hmm...Always so."
+就是得这样……
 
 60
 00:08:55,000 --> 00:09:05,000
-"I am looking forward to making something and fixing it.
-To be exciting."
+我就一直期待着把它修好，这样就很棒了
 
 61
 00:09:05,000 --> 00:09:13,000
-"I actually decompose it.
-Then, I will face various problems."
+我已经拆开过一次了，我会面临很多问题的
 
 62
 00:09:13,000 --> 00:09:18,000
-"Huh. Is this so detailed?"
+哈？就这么详细？
 
 63
 00:09:18,000 --> 00:09:30,000
-"How much time will it take to fix this?
-How much money will it cost?"
-"Can I repair this to myself?"
+要花多少时间来修复？要花多少钱？我能自己修好吗？
 
 64
 00:09:30,000 --> 00:09:37,000
-"I noticed that the enemy was big, and I am perplexed."
-"Am I doing something terrible thing?"
+我才注意到，要面临的挑战很大，我心里没底。
+我真的在做什么可怕的事情吗？
 
 65
 00:09:37,000 --> 00:09:41,000
-"So. Always so."
+嗯……就酱
 
 66
 00:09:41,000 --> 00:09:50,000
-Sources of power when people try to do something.
-That is the feeling that people want to be recognized. Takao said so.
+他说：当人们想做什么事情的时候这就是他们的动力，
+这也就是想得到大家的认可的想法
 
 67
 00:09:51,000 --> 00:10:01,000
-This is a cable for connecting the display and the main unit.
+这是连接本体和显示屏之间的线缆
 
 68
 00:10:02,000 --> 00:10:12,000
-The acetate tape wound on the cable was deteriorated.
-The glue was spilling from the gap of the hinge as it became granular.
+排线上的绝缘胶带已经老化，胶水也开始劣化
 
 69
 00:10:12,000 --> 00:10:18,000
-He swept clean and rolled a new acetate tape.
+他就进行清理并重新绑上了新的绝缘胶带
 
 70
 00:10:19,000 --> 00:10:28,000
-Coin type rechargeable batteries for saving PC settings and clocks were exchanged for new one.
+用于存放设置和时钟的纽扣型 CMOS 电池也已经被替换
 
 71
 00:10:29,000 --> 00:10:38,000
