@@ -1,0 +1,169 @@
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,微软雅黑,15,&H00FFFF00,&H0300FFFF,&H00FF8000,&H00FF0000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+Style: TopNotice,微软雅黑 Light,15,&H0040FF00,&H0300FFFF,&H00008000,&H00004000,1,0,0,0,100,100,0,0,1,2,1,8,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:01.86,Default,,0,0,0,,我是 Mike，欢迎来到 It's Super Effective\NI'm Mike and It's Super Effective
+Dialogue: 0,0:00:01.86,0:00:03.43,Default,,0,0,0,,剧透警告\Nand spoiler alert,
+Dialogue: 0,0:00:03.44,0:00:05.60,Default,,0,0,0,,你知道在《洛克人EXE》系列里\Ndid you know that in Mega Man Battle Network,
+Dialogue: 0,0:00:05.60,0:00:09.26,Default,,0,0,0,,洛克人EXE实际上是光热斗的哥哥光彩斗吗\NMegaMan.EXE is actually Lan's younger brother Hub?
+Dialogue: 0,0:00:09.26,0:00:13.66,TopNotice,,0,0,0,,UP注：HBD
+Dialogue: 0,0:00:09.26,0:00:13.66,Default,,0,0,0,,彩斗幼年的时候因为一种罕见的心脏病夭折\NHub died as a baby due to a rare heart complication,
+Dialogue: 0,0:00:13.66,0:00:16.05,Default,,0,0,0,,光博士（光裕一郎）决定将彩斗的数据\Nand Dr. Hikari decided to use his data
+Dialogue: 0,0:00:16.05,0:00:18.76,Default,,0,0,0,,变成网络领航员 洛克人EXE\Nto turn him into the NetNavi MegaMan.EXE.
+Dialogue: 0,0:00:18.77,0:00:19.77,Default,,0,0,0,,所以大家来看看\NSo sit right there,
+Dialogue: 0,0:00:19.77,0:00:21.77,Default,,0,0,0,,这些关于《洛克人EXE》系列的事实\Nthis is Mega Man Battle Network facts!
+Dialogue: 0,0:00:29.54,0:00:33.58,Default,,0,0,0,,自《洛克人EXE4》起，洛克人系列游戏的销量就开始下滑\NMega Man sales have steadily declined since Mega Man Battle Network 4
+Dialogue: 0,0:00:33.58,0:00:36.82,TopNotice,,0,0,0,,EXE4引入了奇怪的多周目要素，每一周目的剧情都是随机的
+Dialogue: 0,0:00:33.58,0:00:36.82,Default,,0,0,0,,一些粉丝认为这是对洛克人系列火上浇油\Nand some fans think that it was the nail in the coffin for Mega Man.
+Dialogue: 0,0:00:36.82,0:00:40.36,Default,,0,0,0,,实际上，现在洛克人也仅仅是在其它游戏\NIn fact, now Mega Man's only cameo appearances are in other games
+Dialogue: 0,0:00:40.36,0:00:42.16,Default,,0,0,0,,或是在漫画书里作为客串\Nand occasionally in comic books.
+Dialogue: 0,0:00:42.16,0:00:45.52,Default,,0,0,0,,《洛克人EXE4.5》仅在日本发售\NRockman EXE 4.5 was only released in Japan
+Dialogue: 0,0:00:45.52,0:00:49.02,Default,,0,0,0,,虽然同为《洛克人EXE》系列的世界观\Nand even though it's set in the same Battle Network Universe,
+Dialogue: 0,0:00:42.16,0:00:51.40,TopNotice,,0,0,0,,EXE4.5里的主角就是你，你可以挑选任何一个你喜欢的角色作为\N你的网络领航员
+Dialogue: 0,0:00:49.02,0:00:51.40,Default,,0,0,0,,但和主线剧情完全不同\Nit doesn't follow the main story line at all.
+Dialogue: 0,0:00:51.40,0:00:52.38,Default,,0,0,0,,在EXE1里\NIn Battle Network here,
+Dialogue: 0,0:00:52.38,0:00:56.56,Default,,0,0,0,,电算镇的电影院外的海报说\Nthere's a poster outside the theatre in DenTown that say's
+Dialogue: 0,0:00:56.56,0:00:58.90,Default,,0,0,0,,由 Rom Cruze 主演的 Upgrade Impssible 3\N"Upgrade Impossible 3" starring Rom Cruze
+Dialogue: 0,0:00:58.90,0:01:03.90,Default,,0,0,0,,这明显暗指的是 Tom Cruise 主演的《碟中谍 3》\Nwhich is clearly a reference to Mission Impossible 3 starring Tom Cruise.
+Dialogue: 0,0:01:03.90,0:01:07.26,TopNotice,,0,0,0,,实际上 EXE4 就出现了
+Dialogue: 0,0:01:03.90,0:01:07.26,Default,,0,0,0,,EXE6 里指出了另一款游戏系列叫做《我们的太阳》\NBattle Network 6 references another game series called Boktai.
+Dialogue: 0,0:01:07.26,0:01:09.96,Default,,0,0,0,,然而《我们的太阳3》没有在日本以外的国家发售\NBoktai 3 however wasn't released outside Japan
+Dialogue: 0,0:01:09.96,0:01:13.68,Default,,0,0,0,,所以，所有的来自《我们的太阳》的特殊芯片\Nso all the special chips, the themed chips from Boktai,
+Dialogue: 0,0:01:13.68,0:01:18.28,TopNotice,,0,0,0,,然而太阳枪没有被砍掉啊
+Dialogue: 0,0:01:13.68,0:01:18.28,Default,,0,0,0,,以及关于《我们的太阳》的支线任务在国际版被移除了\Nand all the side quests incorporating Boktai have been removed the international versions.
+Dialogue: 0,0:01:18.56,0:01:25.78,Default,,0,0,0,,然而在国际版游戏代码里，依然残留着一些关于《我们的太阳》的支线任务的信息\NHowever, in the games code there's still many dialogue\Ntreats and side quests that still reference Boktai in the international versions.
+Dialogue: 0,0:01:25.78,0:01:28.56,TopNotice,,0,0,0,,然而他早在光兄弟诞生之前就挂了，是光兄弟的爷爷
+Dialogue: 0,0:01:25.78,0:01:28.56,Default,,0,0,0,,光博士的全名是光正\NDr. Hikari's full name Tadashi Hikari
+Dialogue: 0,0:01:28.56,0:01:32.74,Default,,0,0,0,,指的是元祖系列的莱特博士\Nreferences Dr. Light from the original Mega Man series.
+Dialogue: 0,0:01:32.74,0:01:35.18,Default,,0,0,0,,在日本的莱特博士叫做 Right\NDr. Light is named Dr. Right in Japan
+Dialogue: 0,0:01:35.18,0:01:40.12,Default,,0,0,0,,而 ただし 一词也被翻译为正\Nand Tadashi is translated into Right as in just or correct.
+Dialogue: 0,0:01:40.12,0:01:44.24,Default,,0,0,0,,EXE 4 里有一些很有趣又经典的语法和拼写错误\NBattle Network 4 has some interesting grammar and spelling errors including the classic,
+Dialogue: 0,0:01:44.24,0:01:47.02,Default,,0,0,0,,她是多么礼貌的年轻人啊！\N"What a polite young man she was!"
+Dialogue: 0,0:01:47.02,0:01:52.06,Default,,0,0,0,,EXE 5 也有类似的情况，例如热斗见到名人先生的时候说\NBattle Network 5 also has it's share of errors such as Lan meeting Mr. Famous and saying,
+Dialogue: 0,0:01:52.06,0:01:55.06,Default,,0,0,0,,名人先生，我在这附近做什么？\N"What am I, Mr. Famous, doing around here?"
+Dialogue: 0,0:01:55.06,0:01:57.12,Default,,0,0,0,,洛克人 EXE 系列的前三作\NIn the first three Mega Man Battle Network games,
+Dialogue: 0,0:01:57.12,0:02:00.42,Default,,0,0,0,,洛克人的肖像照上显示他有蓝色的眼睛\NMega Man's mugshot shows that he has blue eyes
+Dialogue: 0,0:02:00.42,0:02:02.28,TopNotice,,0,0,0,,绿色眼睛是网络领航员普遍的特征：放大一看眼睛还是绿色的
+Dialogue: 0,0:02:00.42,0:02:02.28,Default,,0,0,0,,然而他实际上有绿色的眼睛\NHowever, he actually has green eyes
+Dialogue: 0,0:02:02.28,0:02:04.24,Default,,0,0,0,,后续几作就纠正过来了\Nand this was changed in later versions of the game.
+Dialogue: 0,0:02:04.46,0:02:07.42,Default,,0,0,0,,洛克人EXE是所有洛克人中\NMegaMan.EXE is the only Mega Man in the franchise
+Dialogue: 0,0:02:07.42,0:02:10.52,Default,,0,0,0,,把洛克破坏炮装备在右手而不是左手上面的\Nto have his arm canon on his right arm instead of his left.
+Dialogue: 0,0:02:10.52,0:02:15.42,Default,,0,0,0,,洛克人EXE在女性网络领航员中很受欢迎\NMegaMan.EXE is blind to his popularity with the female NetNavi's.
+Dialogue: 0,0:02:15.42,0:02:20.39,Default,,0,0,0,,实际上，他根本就没注意到萝露和美蒂之间为了和他相处而内斗\NIn fact, when Roll and Meddy fight over spending time with him he doesn't notice at all,
+Dialogue: 0,0:02:20.39,0:02:23.38,TopNotice,,0,0,0,,木头人
+Dialogue: 0,0:02:20.39,0:02:23.38,Default,,0,0,0,,他只是认为当她们拥抱他的时候，她们只是表现出友好\Nand he just thinks when they hug him, they're just being friendly.
+Dialogue: 0,0:02:23.38,0:02:24.54,Default,,0,0,0,,在《流星洛克人2》里\NIn Mega Man Star Force 2,
+Dialogue: 0,0:02:24.54,0:02:27.64,Default,,0,0,0,,你可以通过一系列支线任务获得热斗的日记\Nyou can obtain Lan's diary through a handful of side quests.
+Dialogue: 0,0:02:27.64,0:02:30.56,Default,,0,0,0,,其中一篇日记指出，热斗的儿子来斗\NOne of these entries reveal thats Lan's son Patch
+Dialogue: 0,0:02:30.56,0:02:33.68,Default,,0,0,0,,拥有他自己的领航员洛克人二世\Nhad his own NetNavi named Mega Man Junior,
+Dialogue: 0,0:02:33.68,0:02:38.44,Default,,0,0,0,,结合了洛克人和萝露最佳的特征\Nwhich was a program combining all the best qualities of MegaMan.EXE and Roll.EXE.
+Dialogue: 0,0:02:38.44,0:02:44.94,Default,,0,0,0,,利卡尔博士的命运在游戏、动画和漫画里完全不同\NDr.Regal's fate changes depending on whether you're\Nplaying the video game watching the anime series or reading the manga.
+Dialogue: 0,0:02:44.94,0:02:46.72,Default,,0,0,0,,在 EXE5 的结局里\NIn the end of Battle Network 5,
+Dialogue: 0,0:02:46.72,0:02:50.94,Default,,0,0,0,,他10年来的记忆被灵魂网络所消除\Nall of his memories from the last 10 years are erased using SoulNet's power
+Dialogue: 0,0:02:50.94,0:02:55.12,Default,,0,0,0,,他便以合法身份重新在科学省工作\Nand he starts fresh as a law abiding person working for Science labs.
+Dialogue: 0,0:02:55.12,0:02:58.42,Default,,0,0,0,,在动画里，他被迪奥干掉了\NIn the anime, he is killed by Duo because of his evilness
+Dialogue: 0,0:02:58.42,0:03:02.30,TopNotice,,0,0,0,,《洛克人 EXE Stream》51话
+Dialogue: 0,0:02:58.42,0:03:02.30,Default,,0,0,0,,因为他太邪恶了，迪奥将其变成了一具骷髅\Nand is forcefully aged until there's nothing left but a skeleton.
+Dialogue: 0,0:03:02.30,0:03:07.22,Default,,0,0,0,,然而在漫画里，佛鲁迪炸掉了利卡尔博士所在的潜艇\NBut in the Manga, Bass blows up the submarine with Dr. Regal in it, killing him.
+Dialogue: 0,0:03:07.22,0:03:12.26,Default,,0,0,0,,在《参上!飞天小女警 Z》第 19 话里，钢琴怪物里面的玩偶\NIn Powerpuff Girls Z, episode 19, the doll inside the piano monster
+Dialogue: 0,0:03:12.26,0:03:14.26,Default,,0,0,0,,看起来非常像美露\Nlooks a lot like Mayl.
+Dialogue: 0,0:03:14.26,0:03:17.02,Default,,0,0,0,,这就是因为她就是以美露为原型的\NThis is because her appearence was inspired by Mayl.
+Dialogue: 0,0:03:17.02,0:03:19.80,Default,,0,0,0,,如果你玩《洛克人 EXE 5 DS 双生领袖》\NIf you play Mega Man Battle Network 5 Double Team DS,
+Dialogue: 0,0:03:19.80,0:03:24.56,Default,,0,0,0,,把不同的 GBA 卡带插到 Gamepak 卡槽会得到不同的额外内容\Nputting different GBA games into the GBA slot get's you different items.
+Dialogue: 0,0:03:24.56,0:03:28.40,Default,,0,0,0,,放入 EXE1-4 和 4.5(日版限定)\NPutting Battle Network 1,2,3,4 or 4.5 in,
+Dialogue: 0,0:03:28.40,0:03:31.34,TopNotice,,0,0,0,,其实不止，还有很多附加内容\N插上 EXE 5 卡带可以将你 EXE 5 本身的芯片夹、改造卡继承过来\N如果 GBA 版 EXE 5 有佛鲁迪共鸣洛克人也可以继承过来
+Dialogue: 0,0:03:28.40,0:03:31.34,Default,,0,0,0,,你会得到对应游戏的对战音乐\Nwill get you remix battle music from the game that you placed in it.
+Dialogue: 0,0:03:31.34,0:03:37.70,Default,,0,0,0,,放入《我们的太阳2》或《我们的太阳3》——如果你玩的是日版\NPutting Boktai 2: Solar Boy Django or Boktai 3 in, if you're playing the Japanese version
+Dialogue: 0,0:03:37.70,0:03:39.58,Default,,0,0,0,,就会得到太阳共鸣形态\Nwill get you the Sol Cross.
+Dialogue: 0,0:03:39.58,0:03:41.68,Default,,0,0,0,,当你打败一个领航员并得到了对应芯片之后\NAfter defeating a Navi and getting it's chip,
+Dialogue: 0,0:03:41.68,0:03:43.50,Default,,0,0,0,,当你再次回来跟它对战\Nif you go back and fight it again
+Dialogue: 0,0:03:43.50,0:03:45.20,Default,,0,0,0,,并无伤将对方带走\Nand take absolutely no damage,
+Dialogue: 0,0:03:45.20,0:03:47.40,TopNotice,,0,0,0,,UP注：EXE 3 黑版（美版是蓝版，有对应汉化版）的庞克除外
+Dialogue: 0,0:03:45.20,0:03:47.40,Default,,0,0,0,,你还会得到另一张它的芯片\Nyou will receive an extra copy of their chip.
+Dialogue: 0,0:03:47.40,0:03:51.00,Default,,0,0,0,,或者是加强版（EX、SP、DS等）\Nor, occasionally, a battle enhanced version.
+Dialogue: 0,0:03:51.00,0:03:52.86,Default,,0,0,0,,如果要在 EXE 1 见到佛鲁迪\NTo encounter Bass in Mega Man Battle Network 1
+Dialogue: 0,0:03:52.86,0:03:56.16,TopNotice,,0,0,0,,不包括 127 号芯片(梦幻灵气) 和 176 号芯片(佛鲁迪)\N如果是《流星演习》就需要多集齐 5 张芯片
+Dialogue: 0,0:03:52.86,0:03:56.16,Default,,0,0,0,,你就需要集齐 174 张芯片\Nyou're going to need 174 battle chips in your library.
+Dialogue: 0,0:03:56.16,0:04:00.18,Default,,0,0,0,,前往互联网 16 区，看到两个领航员并排站到一起\NGo to the Internet Area 16 to look at two\Nmen who are standing parallel to each other
+Dialogue: 0,0:04:00.18,0:04:03.92,Default,,0,0,0,,在这个地方随便转转，就可以见到佛鲁迪了\Nkeep walking around the area until eventually you will encounter Bass.
+Dialogue: 0,0:04:03.92,0:04:10.16,TopNotice,,0,0,0,,实际上，《洛克人 EXE 4》是可以和《洛克人 Zero 3》联动交换到 Z 剑芯片的\N汉化版 Zero 3 很可能是基于欧版汉化的，因此你们可能需要相应地拿\N欧版 EXE 4 来完成交换。不能跨地区版本交换
+Dialogue: 0,0:04:03.92,0:04:10.16,Default,,0,0,0,,在 2003 年，《洛克人 EXE 4》中的常规领航员非常流行\NIn the summer of 2003, there was a surge in popularity of\Nthe normal NetNavi from Megaman Battle Network 4.
+Dialogue: 0,0:04:10.16,0:04:12.64,Default,,0,0,0,,实际上，因为太流行了，相关手办\NIn fact, it was so popular that toys
+Dialogue: 0,0:04:12.64,0:04:17.26,Default,,0,0,0,,和各种周边游戏卖到了3200多万円\Nand other games occasionally sold up to 32 million Yen.
+Dialogue: 0,0:04:17.26,0:04:22.36,Default,,0,0,0,,浦川守的轮椅上有小夜曲的领航员标志\NMamoru Urakawa has an icon of the NetNavi Serenade on the side of his chair.
+Dialogue: 0,0:04:22.36,0:04:25.19,TopNotice,,0,0,0,,再强也没洛克人强\N我以前一次性对付过三个小夜曲Ω、三个迪奥Ω(EXE4最终BOSS，土豪金)和三个佛鲁迪BX
+Dialogue: 0,0:04:22.36,0:04:25.19,Default,,0,0,0,,小夜曲是整个游戏中最强的网络领航员之一\NSerenade is one of the strongest Navi's in the entire game,
+Dialogue: 0,0:04:25.20,0:04:29.88,Default,,0,0,0,,很显然，小夜曲就是 Bone Bo Uru\Nand is highly suggested that Serenade is Bone Bo Uru.
+Dialogue: 0,0:04:29.88,0:04:32.48,Default,,0,0,0,,而在 Wii U 和 3DS 上的《任天堂明星大乱斗》\NIn Super Smash Bros, the Wii U and 3DS,
+Dialogue: 0,0:04:32.48,0:04:34.62,Default,,0,0,0,,你可以下载 Mii Gunner 套装\Nyou can download a Mii Gunner costume
+Dialogue: 0,0:04:34.62,0:04:37.20,Default,,0,0,0,,就可以变成洛克人EXE\Nwhich turns out to be MegaMan.EXE.
+Dialogue: 0,0:04:37.20,0:04:39.00,Default,,0,0,0,,杰洛是威利博士(元祖系列)制造的\NZero was created by Dr. Wily
+Dialogue: 0,0:04:39.00,0:04:42.18,TopNotice,,0,0,0,,UP注：这里使用了 EXE Beast+ 的翻译\N图配错了，零之病毒根本不是长这个样子的\N威利博士的图也配错了
+Dialogue: 0,0:04:39.00,0:04:42.18,Default,,0,0,0,,而零EXE也是威利博士制造的\Nand Zero.EXE was also created by Dr. Wily
+Dialogue: 0,0:04:42.18,0:04:45.82,Default,,0,0,0,,实际上零.EXE本是病毒(零之病毒)\Nand the fact that Zero.EXE was originally a virus,
+Dialogue: 0,0:04:45.82,0:04:49.08,Default,,0,0,0,,很明显就对应到了\Nis a heavy suggestion that he was the progenitor
+Dialogue: 0,0:04:49.08,0:04:52.34,TopNotice,,0,0,0,,来自西叔的∑病毒
+Dialogue: 0,0:04:49.08,0:04:52.34,Default,,0,0,0,,洛克人 X 系列的异常者病毒\Nof the original Maverick virus of the Mega Man X series.
+Dialogue: 0,0:04:52.34,0:04:56.28,Default,,0,0,0,,EXE 2 里父母会对其中一个剧情产生争议\NBattle Network 2 created some controversy with parents when they found out
+Dialogue: 0,0:04:56.28,0:04:58.98,Default,,0,0,0,,有剧情里，亚伊朵对热斗说\Nthat there's a sequence where Yai talks to the main character
+Dialogue: 0,0:04:58.98,0:05:03.36,TopNotice,,0,0,0,,这里使用了 EXE 2 汉化版里对应剧情的翻译
+Dialogue: 0,0:04:58.98,0:05:03.36,Default,,0,0,0,,“真是不幸啊，热斗。你错过欣赏我优美身材的机会了。”\Nand says, "if you don't rescue me you might miss out on seeing me naked."
+Dialogue: 0,0:05:03.36,0:05:06.96,Default,,0,0,0,,卡婊你到底想做什么？我不需要看未成年女孩的人体艺术……\NWhat is your deal Capcom? I don't need to see underage girls naked.
+Dialogue: 0,0:05:06.96,0:05:10.88,Default,,0,0,0,,在 EXE 4 里，热斗床后有一张照片\NIn Battle Network 4, there's occasionally a poster behind Lan's bed
+Dialogue: 0,0:05:10.88,0:05:13.16,Default,,0,0,0,,美露向你竖中指\Nthat has Mayl giving you the finger.
+Dialogue: 0,0:05:13.16,0:05:17.54,Default,,0,0,0,,在 EXE 3 黑版(美版是蓝版)里，当你在使用变幻剑的时候按住 A\NIn Battle Network 3 Blue, if you hold down A while using VarSword
+Dialogue: 0,0:05:17.54,0:05:21.18,Default,,0,0,0,,在出现攻击动画之前依次按 上 右 下\Nand press up, right, and down, before the attack animation happens
+Dialogue: 0,0:05:21.18,0:05:23.36,Default,,0,0,0,,就可以得到阔剑的效果\Nyou'll get the WideSword effect.
+Dialogue: 0,0:05:23.36,0:05:25.64,Default,,0,0,0,,还可以产生其它剑系的效果\NThere are other combinations that give you different effects such as
+Dialogue: 0,0:05:25.64,0:05:29.46,TopNotice,,0,0,0,,新变幻剑的话还有元素剑，这在秘境网络里进行限时挑战非常重要
+Dialogue: 0,0:05:25.64,0:05:29.46,Default,,0,0,0,,比如说长剑、梦幻剑、骑士剑\NLongSword, LifeSword, and FighterSword, just to name a few.
+Dialogue: 0,0:05:29.46,0:05:33.72,Default,,0,0,0,,在 EXE 3 里，你可以在标题画面集齐七星\NIn Battle Network 3 as well you can walk seven stars on the main screen after
+Dialogue: 0,0:05:33.72,0:05:35.94,Default,,0,0,0,,只要你达到了对应的要求\Ncompleting specific objectives.
+Dialogue: 0,0:05:35.94,0:05:40.32,Default,,0,0,0,,第六颗星要求打败所有的Ω级别领航员（V4）\NThe six-star which is red requires you to defeat all 15 Omega Navies.
+Dialogue: 0,0:05:40.32,0:05:48.06,Default,,0,0,0,,当你集齐五星的时候，你就在标题画面按下 R R L R L R L L\NYou must use the code, R R L R L R L L at the title screen once you've acquired 5 stars
+Dialogue: 0,0:05:48.06,0:05:53.54,TopNotice,,0,0,0,,第七颗星是把所有的 PA (程序强化，Program Advance) 组合出来\N然而并不是随机遇到的幽灵领航员，而是在固定位置
+Dialogue: 0,0:05:48.06,0:05:50.06,Default,,0,0,0,,这样就可以挑战Ω级别领航员\Nto be able to unlock the Omega Navies.
+Dialogue: 0,0:05:50.38,0:05:53.86,Default,,0,0,0,,它们是你之前打败的领航员的幽灵\NThey are ghosts of the Navies that have been previously defeated.
+Dialogue: 0,0:05:53.86,0:05:56.74,Default,,0,0,0,,石原裕司说，在《洛克人 EXE 传送》这一作\NAccording to Yuji Ishihara, for Network transmission
+Dialogue: 0,0:05:56.74,0:06:00.96,Default,,0,0,0,,本来还打算推出长得像 PET 的定制版 NGC 手柄\Nthere was going to be a GameCube controller released to look like a PET.
+Dialogue: 0,0:06:00.96,0:06:05.70,TopNotice,,0,0,0,,UP 主也有一本这个设定集，是日版的
+Dialogue: 0,0:06:00.96,0:06:05.70,Default,,0,0,0,,在《洛克人 EXE 官方完整设定集》里甚至还有设定画\NThere's still concept art available for this in the Mega Man Battle Network Complete Works.
+Dialogue: 0,0:06:05.96,0:06:10.62,Default,,0,0,0,,《洛克人 EXE 传送》（美版）里的语音实际上是日语语音、英文字幕\NThe voice acting in Network Transmission is exclusively Japanese with English subtitles.
+Dialogue: 0,0:06:10.62,0:06:15.18,Default,,0,0,0,,然而在英文版里，热斗说“ロックマン”的部分全部被剪掉了\NHowever, in the English version all references to Lan saying "Rockman" have been removed.
+Dialogue: 0,0:06:15.54,0:06:19.26,Default,,0,0,0,,口圭，这就是很多关于洛克人 EXE 系列的事实了\NWoahhh, that was an awesome load of Mega Man Battle Network Facts.
+Dialogue: 0,0:06:19.26,0:06:20.12,TopNotice,,0,0,0,,真的吗？你还有好多不知道的事实呢，让UP主来慢慢跟大家介绍
+Dialogue: 0,0:06:19.26,0:06:20.12,Default,,0,0,0,,我真的充分了解了洛克人 EXE 系列\NI really dug Battle Network.
+Dialogue: 0,0:06:20.12,0:06:23.48,TopNotice,,0,0,0,,当年洛克人 EXE 系列的对战系统甚至还被 CAPCOM 申请了专利
+Dialogue: 0,0:06:20.12,0:06:23.48,Default,,0,0,0,,它是非常棒的一种 RPG 系列游戏，有着独特的对战系统\NIt was a really sweet series of RPG's and a really awesome fighting system.
+Dialogue: 0,0:06:23.48,0:06:26.58,TopNotice,,0,0,0,,日本有两款专属的洛克人 EXE 系列游戏，LoN 和 PoN\N基于日本专有手机平台 DoJa\N因为平台很封闭，想在日本以外的地方玩几乎不可能
+Dialogue: 0,0:06:23.48,0:06:26.58,Default,,0,0,0,,我只玩了1和2，我对剧情感到失落\NI only played 1 and 2, I kinda fell off cause the story line,
+Dialogue: 0,0:06:26.58,0:06:28.08,TopNotice,,0,0,0,,EXE 系列动画非常有趣，最近日本 Kids Station 电视台就在重播第一部呢\N和 DVD 生肉版相比，我看到片源之后没发现画质有多大提升
+Dialogue: 0,0:06:26.58,0:06:28.08,Default,,0,0,0,,剧情相当的重复累赘\NI felt like it was really repetitive
+Dialogue: 0,0:06:28.08,0:06:30.76,TopNotice,,0,0,0,,你要把 EXE 当作是一种信仰，我都已经买了四个洛克人的手办了\N两个木棉花的、万代的 66 Action 和粘土人\N很惭愧，我还没入手千值练手办
+Dialogue: 0,0:06:28.08,0:06:30.76,Default,,0,0,0,,我就基本没有玩下去的动力了\Nand I didn't really feel that engaged anymore
+Dialogue: 0,0:06:30.76,0:06:31.68,TopNotice,,0,0,0,,哦！还有一个公仔！我晚上就抱着他睡觉\N你们可以脑补一下
+Dialogue: 0,0:06:30.76,0:06:31.68,Default,,0,0,0,,不过也还好\Nbut that's okay.
+Dialogue: 0,0:06:31.68,0:06:37.52,TopNotice,,0,0,0,,4.5 算好的了，PET 玩具可真是骗钱\N除了拿来 cosplay 表演一无是处
+Dialogue: 0,0:06:31.68,0:06:37.52,Default,,0,0,0,,我还尝试着玩 EXE 4.5 或者是盗版什么的\NI have also however tried to import 4.5 or bootleg it atleast
+Dialogue: 0,0:06:37.52,0:06:41.10,TopNotice,,0,0,0,,EXE 动画有粤语版和台湾腔的国语版，不过画质感人\N而且……台湾腔听着就特别扭
+Dialogue: 0,0:06:37.52,0:06:41.10,Default,,0,0,0,,当然没法玩，毕竟我不懂日文\Nand it failed miserably and I obviously can't read Japanese, so,
+Dialogue: 0,0:06:41.10,0:06:44.94,TopNotice,,0,0,0,,有一种洛克人 EXE 限定版 GBA 主机\N作为死忠粉的我已经有入手的打算了
+Dialogue: 0,0:06:41.10,0:06:44.94,Default,,0,0,0,,游戏风格完全不一样，插画也很有趣\Nbut it had a different style and the art was really interesting too but
+Dialogue: 0,0:06:44.94,0:06:47.84,TopNotice,,0,0,0,,因为《洛克人 EXE 4.5》是为数不多引入了 RTC 的一款 GBA 游戏\N只有正版卡带才有 RTC 功能\N使用 VBA 模拟器就要求打开“实时时钟”
+Dialogue: 0,0:06:44.94,0:06:47.84,Default,,0,0,0,,但是我的主机经常崩溃，这就是生活吧\Nit kept crashing in my system, so, you know, whatever, that's life.
+Dialogue: 0,0:06:47.84,0:06:49.96,TopNotice,,0,0,0,,EXE 和流星系列的文本量巨大，翻译起来非常麻烦\N翻译完成后还要排查 BUG\N因此洛克人 EXE 系列汉化版做出来非常消耗精力
+Dialogue: 0,0:06:47.84,0:06:49.96,Default,,0,0,0,,不管怎么样，在评论区告诉我是否应该重新回顾这个系列\NAnyway, tell me whether or not, I should go revisit the series
+Dialogue: 0,0:06:49.96,0:06:53.74,TopNotice,,0,0,0,,但是，如果你想回顾的话，我其实建议你玩美版或欧版\N虽然某些情况下会砍掉一些内容，但是游戏的主线剧情是不会砍的
+Dialogue: 0,0:06:49.96,0:06:53.74,Default,,0,0,0,,或者告诉我你的感受，可以的话就记得订阅\Nand what your feelings are on it and if you like what you see like, comment, and subscribe
+Dialogue: 0,0:06:53.74,0:06:55.74,TopNotice,,0,0,0,,要是英语也不行那就没救了……\N现在明白学好英语的重要性了吧
+Dialogue: 0,0:06:53.74,0:06:55.14,Default,,0,0,0,,因为它非常有效\NBecause, It's Super Effective.
