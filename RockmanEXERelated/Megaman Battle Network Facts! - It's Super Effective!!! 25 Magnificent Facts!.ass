@@ -1,4 +1,4 @@
-﻿[Script Info]
+[Script Info]
 ; This is an Advanced Sub Station Alpha v4+ script.
 Title: 
 ScriptType: v4.00+
@@ -15,6 +15,7 @@ Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:01.86,Default,,0,0,0,,我是 Mike，欢迎来到 It's Super Effective\NI'm Mike and It's Super Effective
 Dialogue: 0,0:00:01.86,0:00:03.43,Default,,0,0,0,,剧透警告\Nand spoiler alert,
 Dialogue: 0,0:00:03.44,0:00:05.60,Default,,0,0,0,,你知道在《洛克人EXE》系列里\Ndid you know that in Mega Man Battle Network,
+Dialogue: 0,0:00:05.60,0:00:09.26,TopNotice,,0,0,0,,原话说是“热斗的弟弟”，应该是原作者口误\N应当是 Lan's elder brother
 Dialogue: 0,0:00:05.60,0:00:09.26,Default,,0,0,0,,洛克人EXE实际上是光热斗的哥哥光彩斗吗\NMegaMan.EXE is actually Lan's younger brother Hub?
 Dialogue: 0,0:00:09.26,0:00:13.66,TopNotice,,0,0,0,,UP注：HBD
 Dialogue: 0,0:00:09.26,0:00:13.66,Default,,0,0,0,,彩斗幼年的时候因为一种罕见的心脏病夭折\NHub died as a baby due to a rare heart complication,
